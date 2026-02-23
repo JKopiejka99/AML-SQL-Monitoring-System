@@ -3,7 +3,6 @@ AML Monitoring System
 
 AML Monitoring System — Project summary
 
-What this project demonstrates
 This repository is a compact demonstration of how an AML (Anti-Money Laundering) monitoring
 system can be organised around transactional data. It shows a clean data model, simple
 automated detectors that flag suspicious behaviour, and the minimal workflows needed to
